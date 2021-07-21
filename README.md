@@ -4,4 +4,5 @@ Ciclo de explotación:
 * Enumerar la red y los servicios
 * Encontrar la vulnerabilidad
 * Explotar la vulnerabilidad 
-* Ganar acceso a la maquina 
+* Ganar acceso a la maquina  
+##### Cada maquina resuelta se encontrara en su respectiva carpeta
